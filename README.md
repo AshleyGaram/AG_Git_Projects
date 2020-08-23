@@ -4,7 +4,7 @@ Scripting Assignment
 
 Installation Instructions For All Ten Scripts:
 
-•	These Scripts or programs must be install on a Linux Base System.
+•	These Scripts must be install on a Linux Base System.
 
 •	I Have Included a Tar.GZ file, ( called : agsc.tar.gz) which you should unzip into its own directory.
 
@@ -16,7 +16,7 @@ Installation Instructions For All Ten Scripts:
 
 •	Once you are in the directory. You must make all the files executable by the following commands, sudo chmod 755  -R `pwd` (This will make all the files in the current directory executable. Or you could do this individual to each file with this command, sudo chmod 755  filename.sh.
 
-•	I have also included a bunch of test files in a separate directory (testf) which you could use to test option 3 & 6. You can make these files any permission you want. But you must first copy then into the directory with the script files. And then “Chmod” or change the permission of each file individual. With a command similar to the one show below.
+•	I have also included a bunch of test files in a separate folder (testf) which you could use to test option 3 & 6. You can make these files any permission you want. But you must first copy them into the directory with the script files. And then “Chmod” or change the permission of each file individual. With a command similar to the one show below.
 
 1. sudo chmod 400 filename.txt (Read Permissions on file)
 2. sudo chmod 200 filename.txt (write Permission on a file)
